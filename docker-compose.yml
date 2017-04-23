@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  sandbox:
+    build: ./docker
+    ports:
+     - "10022:22"
