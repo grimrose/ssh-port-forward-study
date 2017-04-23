@@ -7,7 +7,7 @@ ssh port forward on java ssh
 * Docker
 * sbt
 
-## useage
+## usage
 
 before run test
 
