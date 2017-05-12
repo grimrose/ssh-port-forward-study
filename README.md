@@ -1,11 +1,11 @@
 # ssh-port-forward-study
-ssh port forward on java ssh
 
 ## requirement
 
 * Java 8 JDK
 * Docker
 * sbt
+* node
 
 ## usage
 
@@ -27,4 +27,11 @@ cd groovy
 ```sh
 cd scala
 sbt test
+```
+
+### node
+
+```sh
+cd node
+npm test
 ```
